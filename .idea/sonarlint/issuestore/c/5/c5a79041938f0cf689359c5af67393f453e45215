@@ -1,0 +1,8 @@
+
+spython:S117:"URename this parameter "leftChild" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùé∞Õ8‹Ç Ú≥1
+tpython:S117:"VRename this parameter "rightChild" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùé∞Õ8‹Ç Ú≥1
+spython:S117C"URename this parameter "leftChild" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î·«î8‹Ç Ú≥1
+tpython:S117C"VRename this parameter "rightChild" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î·«î8‹Ç Ú≥1
+ypython:S100C"[Rename method "validateBinaryTreeNodes" to match the regular expression ^[a-z_][a-z0-9_]*$.(Î·«î8‹Ç Ú≥1
+=python:S125F"Remove this commented out code.(ÀÖ¥√8‹Ç Ú≥1
+Fpython:S1481`"(Remove the unused local variable "root".(º¨Ïo8‹Ç Ú≥1

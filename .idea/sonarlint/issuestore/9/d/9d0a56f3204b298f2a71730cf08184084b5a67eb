@@ -1,0 +1,18 @@
+
+Mpython:S1066ğ"/Merge this if statement with the enclosing one.(õ¶Şàıÿÿÿÿ
+Hpython:S1066ò	"/Merge this if statement with the enclosing one.(š¤š‚
+mpython:S3776®"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(®á¢ü
+rpython:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÄÎËñÿÿÿÿÿ
+Npython:S1172°"5Remove the unused function parameter "pluginmanager".(ğ‘Ö÷
+Spython:S1481ù"5Replace unused local variable "args_source" with "_".(§Ü’‘ıÿÿÿÿ
+Npython:S1481ª	"6Replace unused local variable "unknown_args" with "_".(¦Šôn
+rpython:S3776×	"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Á–Âáüÿÿÿÿ
+}python:S1871ø
+"dEither merge this branch with the identical one on line "1396" or change one of the implementations.(šÕ•ò
+Jpython:S1172Ş",Remove the unused function parameter "name".(®îºØşÿÿÿÿ
+Spython:S1481ä"5Replace unused local variable "description" with "_".(©÷İŸüÿÿÿÿ
+mpython:S3776â"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(éÜÑó
+Ipython:S5806ä"+Rename this variable; it shadows a builtin.(©÷İŸüÿÿÿÿ
+Rpython:S1135ƒ"4Complete the task associated to this "TODO" comment.(µ¿ˆıÿÿÿÿ
+Jpython:S1172Ø",Remove the unused function parameter "path".(º¤Ÿüùÿÿÿÿ
+Epython:S1172Ü",Remove the unused function parameter "path".(¶Ì¤Ş

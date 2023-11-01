@@ -1,0 +1,8 @@
+
+tpython:S117"VRename this parameter "ransomNote" to match the regular expression ^[_a-z][a-z0-9_]*$.(´Ä©Ã8êšãÆ´1
+npython:S100"PRename method "canConstruct" to match the regular expression ^[a-z_][a-z0-9_]*$.(´Ä©Ã8êšãÆ´1
+Opython:S5806"+Rename this variable; it shadows a builtin.(ÅˆŸšüÿÿÿÿ8êšãÆ´1
+ypython:S117-"[Rename this local variable "ransomNote" to match the regular expression ^[_a-z][a-z0-9_]*$.(Òˆí³8ëšãÆ´1
+~python:S1174"[Rename this local variable "ransomNote" to match the regular expression ^[_a-z][a-z0-9_]*$.(–¢Œáÿÿÿÿÿ8ëšãÆ´1
+~python:S117:"[Rename this local variable "ransomNote" to match the regular expression ^[_a-z][a-z0-9_]*$.(–¢Œáÿÿÿÿÿ8ëšãÆ´1
+ypython:S117A"[Rename this local variable "ransomNote" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷¤ŽŽ8ëšãÆ´1

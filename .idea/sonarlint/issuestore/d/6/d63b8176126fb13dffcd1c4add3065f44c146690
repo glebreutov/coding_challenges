@@ -1,0 +1,9 @@
+
+mpython:S100-"ORename method "fullJustify" to match the regular expression ^[a-z_][a-z0-9_]*$.(¡¦Ñû8 ™à¥´1
+wpython:S117A"YRename this local variable "maxWidth" to match the regular expression ^[_a-z][a-z0-9_]*$.(èÆÁ¡8 ™à¥´1
+wpython:S117M"YRename this local variable "maxWidth" to match the regular expression ^[_a-z][a-z0-9_]*$.(èÆÁ¡8 ™à¥´1
+wpython:S117Z"YRename this local variable "maxWidth" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÌâŞ8 ™à¥´1
+|python:S117k"YRename this local variable "maxWidth" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰µì¹ûÿÿÿÿ8 ™à¥´1
+Kpython:S1481x"'Remove the unused local variable "inp".(™À›×øÿÿÿÿ8 ™à¥´1
+Kpython:S1481"'Remove the unused local variable "inp".(ƒ†û’üÿÿÿÿ8 ™à¥´1
+Lpython:S1481…"'Remove the unused local variable "inp".(¿ßó¿üÿÿÿÿ8 ™à¥´1
