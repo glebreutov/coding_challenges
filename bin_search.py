@@ -2,39 +2,79 @@ from typing import List
 
 
 class Solution:
-    def check_bounds(self, nums: List[int], target: int):
-        lb = nums[0]
-        ub = nums[-1]
 
-        if lb > target:
+    def check_tails(self, nums: List[int], target: int):
+        last_idx = len(nums) - 1
+        a = nums[0]
+        if a == target:
             return 0
+        if a > target:
+            return -1
 
-        if lb == target:
-            return 0
-
-        if ub < target:
-            return len(nums)
-
-        if ub == target:
-            return len(nums) - 1
+        b = nums[last_idx]
+        if b == target:
+            return last_idx
+        if target > b:
+            return last_idx + 1
 
         return None
 
     def searchInsert(self, nums: List[int], target: int) -> int:
-        idx = self.check_bounds(nums, target)
-        if idx is not None:
-            return idx
+        lb = 0
+        if not nums:
+            return 0
 
-        p = int(len(nums) / 2)
-        if nums[p] == target:
-            return p
-        if abs(nums[p] - target) == 1:
-            return p - nums[p] + target
+        # one and more
+        if target <= nums[lb]:
+            return lb
 
-        if nums[p] > target:
-            return self.searchInsert(nums[:p], target)
-        else:
-            return p + self.searchInsert(nums[p:], target)
+        rb = len(nums) - 1
+
+        if nums[rb] == target:
+            return rb
+
+        if nums[rb] < target:
+            return rb + 1
+
+        dist = rb - lb
+
+        if dist == 1:
+            return 1
+        elif dist == 2:
+
+
+
+
+
+
+
+
+def test_c1():
+    nums = []
+    target = 5
+    exp = 0
+    assert Solution().searchInsert(nums, target) == exp
+
+
+def test_c2():
+    nums = [6]
+    target = 5
+    exp = 0
+    assert Solution().searchInsert(nums, target) == exp
+
+
+def test_c3():
+    nums = [5]
+    target = 5
+    exp = 0
+    assert Solution().searchInsert(nums, target) == exp
+
+
+def test_c3():
+    nums = [4]
+    target = 5
+    exp = 1
+    assert Solution().searchInsert(nums, target) == exp
 
 
 def test_case1():
